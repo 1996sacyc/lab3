@@ -27,8 +27,6 @@ int main(){
     }
     for(int i=size-4; i<size+1; i++){
         tot=tot+v.at(i);
-        cout<<v.at(i)<<endl;
     }
     cout<<tot<<endl;
 }
-
