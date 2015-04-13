@@ -1,6 +1,6 @@
 lab3_A
 g++ -o lab3_A lab3_A.cpp
-
+result:2032
 
 
 lab3_B
